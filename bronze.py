@@ -7,6 +7,7 @@ import json
 from json import JSONDecodeError
 
 
+#Carregando variaveis de ambiente do arquivo .env
 load_dotenv('credenciais.env')
 
 url = "https://stfasttracksdev.blob.core.windows.net"
@@ -78,3 +79,4 @@ print(df_normalized.columns.tolist())
 
 print("\n=== DataFrame Info ===")
 print(df_normalized.info())
+
