@@ -1,0 +1,4 @@
+- Instruções para execução do projeto
+  - Explicação da arquitetura do pipeline
+  - Descrição da lógica de cálculo do SLA
+  - Dicionário de dados da tabela final e dos relatórios
