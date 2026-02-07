@@ -49,3 +49,5 @@ print("\n=== DataFrame Info ===")
 print(df_normalized.info())
 
 print(df_normalized)
+
+#teste
