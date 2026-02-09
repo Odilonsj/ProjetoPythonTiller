@@ -1,0 +1,805 @@
+id,issue_type,status,priority,assignee_id,assignee_name,assignee_email,created_at,resolved_at
+JIRA-0002,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-03-09 12:39:26,2025-03-10 10:39:26
+JIRA-0004,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-11-22 20:24:58,2025-11-23 07:24:58
+JIRA-0005,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-06 01:08:44,2025-01-07 09:08:44
+JIRA-0008,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-07 22:55:41,2025-04-08 14:55:41
+JIRA-0009,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-08 21:21:55,2025-10-12 10:21:55
+JIRA-0011,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-10-23 06:03:59,2025-10-23 18:03:59
+JIRA-0013,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-25 11:02:21,2025-03-01 04:02:21
+JIRA-0014,Story,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-26 01:09:17,2025-12-31 02:09:17
+JIRA-0015,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-09 21:04:05,2025-09-11 11:04:05
+JIRA-0016,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-02-21 09:50:42,2025-02-23 00:50:42
+JIRA-0017,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2026-01-23 18:20:42,2026-01-26 08:20:42
+JIRA-0019,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-06-20 08:26:06,2025-06-22 19:26:06
+JIRA-0020,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-27 04:00:28,2025-03-27 12:00:28
+JIRA-0021,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-10-26 20:34:57,2025-10-29 08:34:57
+JIRA-0022,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-01-09 22:01:18,2025-01-12 03:01:18
+JIRA-0023,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-16 23:14:20,2025-08-22 14:14:20
+JIRA-0024,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-24 13:55:39,2025-07-25 09:55:39
+JIRA-0025,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-08-20 19:24:50,2025-08-22 01:24:50
+JIRA-0027,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-15 12:16:14,2026-01-15 16:16:14
+JIRA-0028,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-07 02:10:18,2025-07-10 14:10:18
+JIRA-0029,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-23 18:12:53,2025-03-02 10:12:53
+JIRA-0030,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-05-09 06:11:22,2025-05-13 01:11:22
+JIRA-0031,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-06-06 05:43:39,2025-06-08 08:43:39
+JIRA-0032,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-17 16:18:42,2025-12-19 22:18:42
+JIRA-0033,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-28 17:38:58,2025-06-29 15:38:58
+JIRA-0034,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-15 17:29:11,2025-02-16 04:29:11
+JIRA-0036,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-04-13 18:28:17,2025-04-17 07:28:17
+JIRA-0037,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-13 04:08:51,2025-11-13 14:08:51
+JIRA-0038,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-11-26 00:04:40,2025-12-01 09:04:40
+JIRA-0039,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-03-18 10:38:31,2025-03-18 15:38:31
+JIRA-0040,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-26 20:55:20,2025-03-28 15:55:20
+JIRA-0041,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-24 16:26:37,2025-11-27 14:26:37
+JIRA-0042,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-02-28 13:16:34,2025-03-01 07:16:34
+JIRA-0043,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-12 11:06:22,2025-01-12 17:06:22
+JIRA-0044,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-16 00:32:18,2025-06-18 15:32:18
+JIRA-0046,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-14 00:12:45,2026-01-15 07:12:45
+JIRA-0047,Bug,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-17 08:19:53,2025-02-18 11:19:53
+JIRA-0048,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-26 13:48:37,2026-01-27 09:48:37
+JIRA-0050,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-02 16:31:06,2025-07-03 08:31:06
+JIRA-0051,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-31 20:50:17,2025-02-01 19:50:17
+JIRA-0052,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-03 17:33:40,2025-09-07 11:33:40
+JIRA-0053,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-26 07:24:48,2025-07-31 12:24:48
+JIRA-0054,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-03 13:58:12,2025-09-05 07:58:12
+JIRA-0055,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-03-19 15:47:08,2025-03-21 09:47:08
+JIRA-0056,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-29 01:59:46,2025-09-30 18:59:46
+JIRA-0060,Story,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-13 14:25:16,2025-06-15 21:25:16
+JIRA-0061,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-28 13:30:27,2026-02-03 18:30:27
+JIRA-0062,Task,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-03 21:41:35,2025-08-04 02:41:35
+JIRA-0063,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-07-23 11:12:00,2025-07-23 20:12:00
+JIRA-0064,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-08 12:15:22,2025-01-10 16:15:22
+JIRA-0065,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-10-14 18:41:05,2025-10-15 16:41:05
+JIRA-0067,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-13 19:34:17,2025-07-14 20:34:17
+JIRA-0068,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-01 01:04:58,2025-05-02 19:04:58
+JIRA-0070,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-27 05:37:08,2025-07-29 21:37:08
+JIRA-0071,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-06-22 18:27:54,2025-06-23 04:27:54
+JIRA-0072,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-26 18:41:14,2025-06-28 10:41:14
+JIRA-0073,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-05 09:32:14,2025-08-05 15:32:14
+JIRA-0074,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-15 05:04:51,2025-09-16 12:04:51
+JIRA-0075,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-26 04:39:06,2025-07-26 09:39:06
+JIRA-0076,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-09-01 15:22:08,2025-09-04 10:22:08
+JIRA-0077,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-28 15:19:30,2025-05-29 03:19:30
+JIRA-0079,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-14 11:22:29,2025-09-15 10:22:29
+JIRA-0080,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-22 06:24:46,2025-08-23 02:24:46
+JIRA-0081,Bug,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-18 15:24:44,2025-08-22 01:24:44
+JIRA-0082,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-10-22 11:46:48,2025-10-23 21:46:48
+JIRA-0083,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-01 07:34:02,2025-01-03 09:34:02
+JIRA-0084,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-08 07:09:39,2025-09-11 06:09:39
+JIRA-0085,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-03 12:49:47,2026-01-06 07:49:47
+JIRA-0086,Story,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-18 08:21:43,2025-09-20 07:21:43
+JIRA-0087,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-04 16:03:03,2025-06-05 22:03:03
+JIRA-0088,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-02-26 13:36:59,2025-02-27 07:36:59
+JIRA-0092,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-05 06:17:17,2025-04-06 00:17:17
+JIRA-0093,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-09-04 10:51:45,2025-09-10 03:51:45
+JIRA-0094,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-12-13 08:25:55,2025-12-16 00:25:55
+JIRA-0095,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-08-04 09:27:29,2025-08-07 15:27:29
+JIRA-0096,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-02 04:23:39,2025-03-03 06:23:39
+JIRA-0097,Bug,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-04 14:04:35,2025-03-05 19:04:35
+JIRA-0098,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-06-16 04:22:14,2025-06-17 00:22:14
+JIRA-0099,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-19 22:35:36,2025-11-20 17:35:36
+JIRA-0100,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-16 04:06:07,2025-01-19 17:06:07
+JIRA-0101,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-08-20 22:32:35,2025-08-22 02:32:35
+JIRA-0102,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-21 07:08:21,2025-06-27 11:08:21
+JIRA-0103,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-10-30 00:49:25,2025-11-01 07:49:25
+JIRA-0104,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-04-10 03:09:16,2025-04-11 02:09:16
+JIRA-0105,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-22 01:13:07,2025-01-22 23:13:07
+JIRA-0107,Task,Done,High,u004,Francinne,francinne@fasttrack.com,2025-09-20 03:27:58,2025-09-21 07:27:58
+JIRA-0108,Story,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-05 14:50:34,2025-03-08 14:50:34
+JIRA-0110,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-01 06:27:57,2025-02-02 10:27:57
+JIRA-0111,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-29 08:36:46,2025-04-29 19:36:46
+JIRA-0113,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-05-11 07:48:58,2025-05-15 00:48:58
+JIRA-0116,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-06-04 01:08:06,2025-06-04 22:08:06
+JIRA-0117,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-08-23 05:54:31,2025-08-25 11:54:31
+JIRA-0118,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-10-15 19:56:30,2025-10-16 15:56:30
+JIRA-0120,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-12-24 02:09:45,2025-12-25 09:09:45
+JIRA-0121,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-07-29 18:42:02,2025-08-04 21:42:02
+JIRA-0122,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-08 08:11:34,2025-09-11 22:11:34
+JIRA-0123,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-12-27 22:47:37,2025-12-31 10:47:37
+JIRA-0124,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-19 22:32:27,2026-01-22 03:32:27
+JIRA-0125,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-20 16:02:16,2025-07-21 06:02:16
+JIRA-0126,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-08 21:13:49,2025-01-15 09:13:49
+JIRA-0127,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-15 11:45:04,2026-01-16 08:45:04
+JIRA-0128,Bug,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-17 05:34:22,2026-01-20 02:34:22
+JIRA-0129,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-07-08 23:32:13,2025-07-11 02:32:13
+JIRA-0130,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-09-25 00:06:08,2025-09-27 18:06:08
+JIRA-0131,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-30 10:14:53,2025-08-01 13:14:53
+JIRA-0132,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-09-03 02:14:24,2025-09-03 09:14:24
+JIRA-0134,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-08 19:28:41,2025-08-10 20:28:41
+JIRA-0135,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-08-23 18:40:34,2025-08-23 22:40:34
+JIRA-0137,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-17 06:38:31,2026-01-19 08:38:31
+JIRA-0138,Bug,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-09 02:56:00,2025-12-11 09:56:00
+JIRA-0139,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-07 01:31:03,2026-01-08 03:31:03
+JIRA-0141,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-08 03:53:13,2025-03-11 18:53:13
+JIRA-0142,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-06-25 07:06:47,2025-06-28 13:06:47
+JIRA-0143,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-11-30 01:58:03,2025-12-02 04:58:03
+JIRA-0144,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-19 01:50:52,2025-03-20 05:50:52
+JIRA-0145,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-05 01:26:38,2025-03-05 10:26:38
+JIRA-0147,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-15 05:28:00,2025-08-16 13:28:00
+JIRA-0148,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-19 15:45:26,2025-12-21 09:45:26
+JIRA-0149,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-03 15:37:02,2025-06-09 03:37:02
+JIRA-0150,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-26 07:44:53,2025-07-27 13:44:53
+JIRA-0152,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-12-08 02:24:49,2025-12-10 09:24:49
+JIRA-0153,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-07-31 11:02:12,2025-08-03 15:02:12
+JIRA-0155,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-21 02:09:23,2025-01-22 01:09:23
+JIRA-0156,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-01-17 02:43:23,2025-01-20 22:43:23
+JIRA-0157,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-10 11:45:12,2025-12-10 23:45:12
+JIRA-0158,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2026-01-17 22:25:59,2026-01-18 21:25:59
+JIRA-0159,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-23 05:52:59,2025-03-24 13:52:59
+JIRA-0160,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-11-08 00:58:15,2025-11-09 09:58:15
+JIRA-0161,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-04-01 00:56:06,2025-04-03 15:56:06
+JIRA-0162,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-25 19:51:47,2025-12-31 04:51:47
+JIRA-0163,Bug,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-23 04:35:05,2026-01-28 21:35:05
+JIRA-0164,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-08-12 17:15:08,2025-08-15 13:15:08
+JIRA-0165,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-05 20:49:40,2025-07-06 22:49:40
+JIRA-0167,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-02 05:43:39,2025-04-03 05:43:39
+JIRA-0168,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-08-01 09:00:34,2025-08-06 19:00:34
+JIRA-0169,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-23 08:19:18,2025-04-24 00:19:18
+JIRA-0170,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-17 00:41:59,2025-04-18 17:41:59
+JIRA-0171,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-30 08:54:58,2026-02-01 06:54:58
+JIRA-0172,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2026-01-16 07:33:27,2026-01-18 21:33:27
+JIRA-0173,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-20 23:42:18,2025-10-23 21:42:18
+JIRA-0174,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-10-25 11:05:38,2025-10-28 22:05:38
+JIRA-0175,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-24 02:39:49,2025-10-26 15:39:49
+JIRA-0177,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-21 21:45:24,2025-12-22 01:45:24
+JIRA-0178,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-28 02:53:58,2025-03-06 02:53:58
+JIRA-0179,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-03-04 09:11:09,2025-03-08 21:11:09
+JIRA-0180,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-15 00:00:01,2026-01-18 09:00:01
+JIRA-0181,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-12 05:07:58,2025-08-12 16:07:58
+JIRA-0182,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-20 01:35:26,2025-03-20 19:35:26
+JIRA-0183,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-05 17:20:01,2025-02-07 22:20:01
+JIRA-0184,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-04-24 01:37:03,2025-04-25 20:37:03
+JIRA-0185,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-20 20:30:13,2025-05-23 15:30:13
+JIRA-0186,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-07-07 01:23:33,2025-07-13 08:23:33
+JIRA-0187,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-17 06:28:50,2025-07-18 00:28:50
+JIRA-0188,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-12-28 08:56:57,2025-12-28 21:56:57
+JIRA-0189,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-26 09:48:36,2025-09-27 07:48:36
+JIRA-0190,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-21 20:02:12,2025-12-23 22:02:12
+JIRA-0192,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-08-18 07:30:00,2025-08-19 12:30:00
+JIRA-0193,Task,Done,High,u004,Francinne,francinne@fasttrack.com,2025-02-08 02:15:03,2025-02-09 01:15:03
+JIRA-0194,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-01 15:44:19,2025-10-02 02:44:19
+JIRA-0195,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-17 05:44:59,2025-04-21 01:44:59
+JIRA-0197,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-12 00:12:28,2025-03-14 01:12:28
+JIRA-0199,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-31 16:16:40,2025-08-03 10:16:40
+JIRA-0200,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-21 02:06:35,2025-09-22 04:06:35
+JIRA-0201,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-06-25 05:45:45,2025-06-26 06:45:45
+JIRA-0204,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-16 12:46:14,2025-10-17 13:46:14
+JIRA-0205,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-12 18:28:48,2025-09-13 17:28:48
+JIRA-0206,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-27 14:34:26,2025-12-28 16:34:26
+JIRA-0209,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-22 13:05:20,2025-11-26 04:05:20
+JIRA-0212,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-09 16:57:28,2025-10-10 16:57:28
+JIRA-0213,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-06 05:51:39,2025-11-10 03:51:39
+JIRA-0215,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-07-09 04:27:11,2025-07-09 12:27:11
+JIRA-0216,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-10 21:41:35,2025-06-11 19:41:35
+JIRA-0217,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-03 04:51:30,2025-01-05 03:51:30
+JIRA-0218,Bug,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-16 12:51:43,2025-05-18 16:51:43
+JIRA-0219,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-04 19:21:59,2025-07-05 17:21:59
+JIRA-0220,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-04-09 10:57:01,2025-04-10 13:57:01
+JIRA-0221,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-05 21:52:05,2026-01-06 15:52:05
+JIRA-0223,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-23 06:47:48,2025-08-24 00:47:48
+JIRA-0224,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-11-28 02:18:58,2025-11-29 03:18:58
+JIRA-0227,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-09-10 13:53:45,2025-09-15 14:53:45
+JIRA-0228,Story,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-01 03:29:48,2025-12-02 03:29:48
+JIRA-0229,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-06-17 00:19:13,2025-06-22 14:19:13
+JIRA-0230,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-12-19 05:49:56,2025-12-21 20:49:56
+JIRA-0231,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-31 17:51:41,2025-09-01 18:51:41
+JIRA-0232,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-04 08:59:39,2026-01-04 14:59:39
+JIRA-0233,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-17 10:38:27,2025-10-18 15:38:27
+JIRA-0234,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-14 01:02:47,2025-09-15 02:02:47
+JIRA-0235,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-25 12:06:51,2025-11-26 06:06:51
+JIRA-0236,Story,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-30 02:51:19,2026-01-31 17:51:19
+JIRA-0237,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-03-26 01:20:12,2025-03-28 09:20:12
+JIRA-0238,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-06-25 15:54:39,2025-06-26 20:54:39
+JIRA-0239,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-21 09:24:24,2025-01-25 05:24:24
+JIRA-0240,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-28 23:53:31,2025-08-31 06:53:31
+JIRA-0241,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-08 07:09:42,2025-11-08 13:09:42
+JIRA-0242,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-13 06:29:13,2025-03-19 21:29:13
+JIRA-0243,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-03 06:19:17,2025-05-05 17:19:17
+JIRA-0244,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-07 23:42:50,2025-03-08 17:42:50
+JIRA-0246,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-10 08:18:03,2025-12-15 18:18:03
+JIRA-0248,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-13 23:29:31,2026-01-20 13:29:31
+JIRA-0249,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-12 13:12:35,2025-02-12 17:12:35
+JIRA-0250,Bug,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-18 11:13:43,2025-07-19 00:13:43
+JIRA-0251,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-01 11:59:28,2025-12-01 20:59:28
+JIRA-0252,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-24 13:33:57,2026-01-29 07:33:57
+JIRA-0254,Task,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-11-11 02:59:20,2025-11-14 23:59:20
+JIRA-0255,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-09-10 06:07:03,2025-09-10 15:07:03
+JIRA-0256,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-10 10:51:36,2025-03-16 01:51:36
+JIRA-0257,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-03 02:05:16,2025-03-05 16:05:16
+JIRA-0258,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-05-11 14:13:15,2025-05-12 11:13:15
+JIRA-0259,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-31 14:37:37,2025-06-01 18:37:37
+JIRA-0260,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-25 17:08:17,2025-04-29 05:08:17
+JIRA-0262,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-15 16:12:01,2025-12-20 02:12:01
+JIRA-0265,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-14 04:30:26,2025-02-16 15:30:26
+JIRA-0266,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-03-12 03:14:55,2025-03-18 12:14:55
+JIRA-0267,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-02-01 20:43:07,2025-02-07 15:43:07
+JIRA-0268,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-05 10:22:03,2026-01-06 06:22:03
+JIRA-0271,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-04 07:14:37,2025-05-09 04:14:37
+JIRA-0272,Story,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-20 19:37:14,2025-09-24 11:37:14
+JIRA-0273,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-09-14 01:52:52,2025-09-16 01:52:52
+JIRA-0274,Story,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-27 19:09:43,2025-04-30 01:09:43
+JIRA-0276,Story,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-11 03:49:59,2025-04-13 00:49:59
+JIRA-0277,Bug,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-09-13 03:14:48,2025-09-14 07:14:48
+JIRA-0278,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-30 22:54:44,2026-02-04 18:54:44
+JIRA-0280,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-17 20:24:14,2025-04-18 04:24:14
+JIRA-0281,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-30 07:39:51,2025-01-31 08:39:51
+JIRA-0282,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-30 19:28:47,2025-05-01 04:28:47
+JIRA-0283,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-09 13:52:25,2025-05-15 05:52:25
+JIRA-0284,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-07-04 11:53:01,2025-07-07 07:53:01
+JIRA-0285,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-01 18:07:51,2025-07-08 10:07:51
+JIRA-0286,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-05-31 16:43:25,2025-06-03 03:43:25
+JIRA-0287,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-10-24 14:37:05,2025-10-27 18:37:05
+JIRA-0288,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-18 11:56:08,2025-04-18 23:56:08
+JIRA-0289,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-21 16:24:40,2025-03-24 22:24:40
+JIRA-0290,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-07-31 21:11:54,2025-08-01 15:11:54
+JIRA-0292,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-04 22:26:15,2025-11-05 18:26:15
+JIRA-0293,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-19 04:52:43,2025-10-20 20:52:43
+JIRA-0294,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-18 10:15:54,2025-09-19 15:15:54
+JIRA-0295,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-02 23:11:53,2026-01-04 01:11:53
+JIRA-0296,Task,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-05 01:53:21,2025-01-05 23:53:21
+JIRA-0297,Bug,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-25 18:02:26,2025-11-26 01:02:26
+JIRA-0299,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-03-28 02:32:27,2025-04-03 09:32:27
+JIRA-0300,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-07 22:03:13,2025-07-09 00:03:13
+JIRA-0303,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2026-01-30 01:16:25,2026-01-31 06:16:25
+JIRA-0304,Task,Done,High,u004,Francinne,francinne@fasttrack.com,2026-01-01 03:57:11,2026-01-01 08:57:11
+JIRA-0305,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-05 08:42:44,2025-10-06 04:42:44
+JIRA-0306,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-22 12:26:04,2025-03-27 01:26:04
+JIRA-0307,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-05-16 23:53:52,2025-05-19 22:53:52
+JIRA-0308,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-02-19 00:16:45,2025-02-20 02:16:45
+JIRA-0309,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-04 22:23:13,2025-06-05 15:23:13
+JIRA-0310,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-03 16:48:40,2026-01-07 08:48:40
+JIRA-0311,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-07 03:07:54,2025-02-08 03:07:54
+JIRA-0312,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-12-06 09:21:50,2025-12-07 01:21:50
+JIRA-0313,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-21 09:53:54,2026-01-24 12:53:54
+JIRA-0314,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-11-26 17:14:50,2025-11-27 15:14:50
+JIRA-0315,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-07 11:48:54,2025-09-07 18:48:54
+JIRA-0316,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-13 08:28:20,2025-12-18 21:28:20
+JIRA-0317,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-02-02 21:33:26,2025-02-05 06:33:26
+JIRA-0318,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-02-14 13:13:54,2025-02-15 10:13:54
+JIRA-0319,Story,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-05 06:22:07,2025-05-06 13:22:07
+JIRA-0320,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-28 00:41:59,2025-01-30 08:41:59
+JIRA-0321,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-10-25 08:55:23,2025-10-26 16:55:23
+JIRA-0322,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-10-16 03:16:46,2025-10-21 02:16:46
+JIRA-0324,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-30 02:50:07,2025-03-31 08:50:07
+JIRA-0325,Story,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-02 11:13:26,2025-04-06 06:13:26
+JIRA-0326,Bug,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-10 19:32:19,2025-08-13 21:32:19
+JIRA-0327,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-12-18 02:41:11,2025-12-18 11:41:11
+JIRA-0328,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-06 05:32:52,2025-09-10 21:32:52
+JIRA-0329,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-21 23:35:51,2025-08-24 15:35:51
+JIRA-0330,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-06 02:32:44,2025-06-08 13:32:44
+JIRA-0331,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-10-14 13:00:09,2025-10-15 07:00:09
+JIRA-0332,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-02-21 01:38:00,2025-02-25 08:38:00
+JIRA-0333,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-11-16 01:46:33,2025-11-21 09:46:33
+JIRA-0334,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-02-27 14:32:10,2025-02-28 08:32:10
+JIRA-0335,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-05-22 08:02:19,2025-05-24 17:02:19
+JIRA-0336,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-29 20:24:54,2025-04-30 09:24:54
+JIRA-0337,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-06-25 03:04:14,2025-06-27 11:04:14
+JIRA-0338,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-02 04:08:17,2025-08-02 12:08:17
+JIRA-0342,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-01-24 12:34:12,2025-01-27 15:34:12
+JIRA-0343,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2026-01-11 02:44:38,2026-01-14 16:44:38
+JIRA-0345,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-06-08 11:15:52,2025-06-10 18:15:52
+JIRA-0346,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-06 00:29:20,2025-09-08 08:29:20
+JIRA-0347,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-24 11:24:43,2025-03-26 15:24:43
+JIRA-0348,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-12 13:32:34,2025-07-12 21:32:34
+JIRA-0349,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-21 18:35:47,2025-11-23 13:35:47
+JIRA-0350,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-05-28 10:45:50,2025-05-31 02:45:50
+JIRA-0351,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-28 15:36:41,2025-08-31 18:36:41
+JIRA-0352,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-07-06 23:30:25,2025-07-08 14:30:25
+JIRA-0354,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-01-07 08:26:16,2025-01-09 11:26:16
+JIRA-0355,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-10 05:12:02,2025-11-12 15:12:02
+JIRA-0356,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-06-01 04:38:16,2025-06-01 19:38:16
+JIRA-0357,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-12-16 19:12:50,2025-12-17 23:12:50
+JIRA-0358,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-03 06:47:52,2025-04-05 14:47:52
+JIRA-0359,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-21 09:00:29,2025-09-24 20:00:29
+JIRA-0360,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-08 18:23:51,2025-11-09 14:23:51
+JIRA-0364,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2026-01-16 11:24:12,2026-01-20 15:24:12
+JIRA-0365,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-03-27 03:10:39,2025-03-29 20:10:39
+JIRA-0366,Story,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-21 16:44:20,2025-01-27 17:44:20
+JIRA-0367,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-09 21:19:46,2025-02-15 23:19:46
+JIRA-0368,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-23 07:15:41,2025-10-25 20:15:41
+JIRA-0369,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-27 08:36:03,2025-03-30 08:36:03
+JIRA-0370,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-11-17 18:08:03,2025-11-19 08:08:03
+JIRA-0371,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-02-18 09:00:26,2025-02-20 20:00:26
+JIRA-0372,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2026-01-07 13:28:53,2026-01-14 03:28:53
+JIRA-0373,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-23 21:26:17,2025-09-24 18:26:17
+JIRA-0374,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-25 08:04:05,2025-07-31 11:04:05
+JIRA-0375,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-24 15:49:31,2025-06-26 17:49:31
+JIRA-0376,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2026-01-15 19:40:41,2026-01-16 09:40:41
+JIRA-0377,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-01 09:37:04,2025-08-05 10:37:04
+JIRA-0378,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-03 10:37:04,2025-11-08 02:37:04
+JIRA-0379,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-03-03 09:12:55,2025-03-04 00:12:55
+JIRA-0380,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-06-16 05:00:11,2025-06-17 18:00:11
+JIRA-0381,Story,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-04-17 14:57:12,2025-04-19 17:57:12
+JIRA-0382,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-09 10:20:10,2025-02-16 01:20:10
+JIRA-0385,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-05 11:41:02,2026-01-06 06:41:02
+JIRA-0386,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-02-15 22:52:13,2025-02-16 21:52:13
+JIRA-0387,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-01-29 23:17:22,2025-02-01 19:17:22
+JIRA-0388,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-11-05 08:30:54,2025-11-06 13:30:54
+JIRA-0389,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-13 20:03:19,2025-08-15 05:03:19
+JIRA-0390,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-09-18 05:38:15,2025-09-22 05:38:15
+JIRA-0391,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-04-15 05:40:05,2025-04-21 14:40:05
+JIRA-0392,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-09-14 20:23:54,2025-09-15 05:23:54
+JIRA-0393,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-11 22:32:54,2025-01-14 05:32:54
+JIRA-0394,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-05-17 07:27:44,2025-05-22 14:27:44
+JIRA-0396,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-12 15:55:58,2025-07-13 03:55:58
+JIRA-0397,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-27 09:08:05,2025-07-27 23:08:05
+JIRA-0398,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-23 03:42:14,2025-07-27 23:42:14
+JIRA-0400,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-30 13:02:56,2025-09-01 19:02:56
+JIRA-0401,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-14 17:54:09,2025-04-20 19:54:09
+JIRA-0402,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-10-18 04:52:18,2025-10-23 14:52:18
+JIRA-0403,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-06-19 15:29:15,2025-06-23 06:29:15
+JIRA-0404,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-10-09 00:09:31,2025-10-10 19:09:31
+JIRA-0405,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2026-01-28 14:57:42,2026-01-29 00:57:42
+JIRA-0407,Task,Resolved,High,u005,Adyna,adyna@fasttrack.com,2026-01-15 16:24:49,2026-01-15 22:24:49
+JIRA-0408,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-11-19 16:04:31,2025-11-20 10:04:31
+JIRA-0409,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-08-28 08:41:49,2025-08-29 13:41:49
+JIRA-0410,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-02-26 17:22:08,2025-02-26 22:22:08
+JIRA-0412,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-20 19:05:42,2025-05-21 23:05:42
+JIRA-0413,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-11-23 12:06:52,2025-11-28 11:06:52
+JIRA-0414,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-14 07:06:34,2025-04-18 06:06:34
+JIRA-0415,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-02 07:08:38,2025-11-03 03:08:38
+JIRA-0416,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-01-18 15:49:01,2025-01-19 04:49:01
+JIRA-0417,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-22 14:13:32,2025-10-26 00:13:32
+JIRA-0419,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-13 03:39:31,2025-01-16 16:39:31
+JIRA-0420,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-13 18:15:52,2025-12-14 17:15:52
+JIRA-0422,Task,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-02-13 20:11:35,2025-02-14 04:11:35
+JIRA-0423,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-09-05 16:47:44,2025-09-06 14:47:44
+JIRA-0424,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-04-22 06:34:04,2025-04-26 06:34:04
+JIRA-0425,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-02-17 08:19:57,2025-02-20 19:19:57
+JIRA-0426,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-11-28 19:35:45,2025-11-29 16:35:45
+JIRA-0427,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-24 01:14:14,2025-10-27 08:14:14
+JIRA-0428,Story,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-21 22:19:36,2025-08-24 10:19:36
+JIRA-0429,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-25 00:43:36,2025-06-27 02:43:36
+JIRA-0430,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-11-20 12:16:09,2025-11-21 09:16:09
+JIRA-0431,Task,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-07 22:28:17,2025-06-10 04:28:17
+JIRA-0433,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-31 17:13:11,2025-02-01 14:13:11
+JIRA-0434,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-18 13:28:52,2025-06-24 15:28:52
+JIRA-0435,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-12 21:50:27,2025-01-14 12:50:27
+JIRA-0436,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2026-01-07 23:43:55,2026-01-08 10:43:55
+JIRA-0437,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-05 21:27:08,2025-07-06 18:27:08
+JIRA-0438,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-07 01:05:00,2025-10-09 04:05:00
+JIRA-0439,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-12-28 22:56:43,2025-12-30 23:56:43
+JIRA-0440,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-11-18 12:13:03,2025-11-18 17:13:03
+JIRA-0442,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-18 06:46:59,2025-08-20 21:46:59
+JIRA-0443,Story,Done,High,u005,Adyna,adyna@fasttrack.com,2025-07-10 20:44:22,2025-07-11 15:44:22
+JIRA-0444,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2026-01-15 12:33:26,2026-01-21 17:33:26
+JIRA-0445,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-05-12 11:20:29,2025-05-14 22:20:29
+JIRA-0446,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-15 14:50:41,2025-02-16 10:50:41
+JIRA-0448,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-28 07:23:48,2025-04-29 09:23:48
+JIRA-0449,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2026-01-11 07:34:41,2026-01-15 07:34:41
+JIRA-0450,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-16 11:54:20,2025-11-16 15:54:20
+JIRA-0451,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-08-11 16:15:42,2025-08-12 20:15:42
+JIRA-0452,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-20 05:46:34,2025-05-22 08:46:34
+JIRA-0453,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-16 01:24:58,2025-07-17 07:24:58
+JIRA-0455,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-25 10:17:03,2025-06-25 23:17:03
+JIRA-0456,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-03-14 14:58:32,2025-03-19 21:58:32
+JIRA-0457,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-08 08:09:50,2025-01-11 03:09:50
+JIRA-0458,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-15 07:19:54,2025-09-18 19:19:54
+JIRA-0459,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-05 07:58:04,2026-01-05 19:58:04
+JIRA-0460,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-26 13:20:01,2025-01-29 10:20:01
+JIRA-0461,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-06 08:46:33,2025-11-06 14:46:33
+JIRA-0462,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-10-30 06:24:17,2025-11-03 18:24:17
+JIRA-0463,Bug,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-02 21:59:53,2025-03-03 17:59:53
+JIRA-0464,Story,Done,High,u005,Adyna,adyna@fasttrack.com,2025-03-01 01:04:58,2025-03-01 15:04:58
+JIRA-0465,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-11 12:06:06,2025-09-12 19:06:06
+JIRA-0466,Story,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-19 14:27:59,2025-10-22 09:27:59
+JIRA-0467,Story,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-08 13:27:14,2025-03-12 16:27:14
+JIRA-0472,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-13 22:29:41,2025-11-14 23:29:41
+JIRA-0473,Task,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-09 23:49:10,2025-09-12 12:49:10
+JIRA-0474,Story,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-07 18:54:48,2025-03-11 05:54:48
+JIRA-0476,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-19 00:29:47,2026-01-20 06:29:47
+JIRA-0477,Task,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-21 19:47:13,2025-08-24 20:47:13
+JIRA-0478,Bug,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2026-01-21 02:25:38,2026-01-24 18:25:38
+JIRA-0480,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-10-23 01:39:43,2025-10-25 07:39:43
+JIRA-0481,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-16 17:32:38,2025-04-18 19:32:38
+JIRA-0482,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-09-02 00:48:03,2025-09-04 21:48:03
+JIRA-0483,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-17 09:02:22,2026-01-20 22:02:22
+JIRA-0484,Story,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-02 04:50:30,2025-11-04 14:50:30
+JIRA-0485,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-05-20 18:05:10,2025-05-21 19:05:10
+JIRA-0486,Story,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-12 20:07:45,2025-06-18 12:07:45
+JIRA-0487,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-11-14 18:57:07,2025-11-15 19:57:07
+JIRA-0488,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-07-16 06:19:40,2025-07-18 21:19:40
+JIRA-0489,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2026-01-08 05:34:56,2026-01-09 03:34:56
+JIRA-0490,Story,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-21 21:41:24,2025-11-23 06:41:24
+JIRA-0491,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-08 00:10:41,2025-03-10 03:10:41
+JIRA-0492,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-04 09:45:00,2025-02-09 15:45:00
+JIRA-0494,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-21 16:19:48,2025-06-27 10:19:48
+JIRA-0495,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-24 17:21:30,2026-01-26 00:21:30
+JIRA-0498,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-28 12:47:17,2025-09-29 07:47:17
+JIRA-0499,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-05 16:54:12,2025-09-07 09:54:12
+JIRA-0501,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-09 10:52:00,2025-07-10 06:52:00
+JIRA-0502,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-28 04:06:04,2025-11-28 22:06:04
+JIRA-0504,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-06-03 06:23:38,2025-06-09 01:23:38
+JIRA-0506,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-02-18 14:16:22,2025-02-20 16:16:22
+JIRA-0507,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-22 09:21:29,2025-12-23 11:21:29
+JIRA-0508,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-01 10:16:33,2025-09-05 02:16:33
+JIRA-0509,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-28 05:47:07,2025-09-30 14:47:07
+JIRA-0510,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-08-20 00:46:24,2025-08-20 23:46:24
+JIRA-0513,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-26 00:52:19,2025-10-28 18:52:19
+JIRA-0514,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-05-15 13:19:50,2025-05-18 07:19:50
+JIRA-0516,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-12 09:45:54,2026-01-13 14:45:54
+JIRA-0517,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2026-01-20 10:54:24,2026-01-25 18:54:24
+JIRA-0518,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-15 14:01:09,2026-01-18 08:01:09
+JIRA-0519,Task,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-21 06:58:04,2025-06-21 19:58:04
+JIRA-0520,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-05-11 15:38:33,2025-05-12 19:38:33
+JIRA-0521,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-20 17:18:35,2026-01-27 03:18:35
+JIRA-0522,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-12 22:47:56,2025-10-13 19:47:56
+JIRA-0523,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-27 05:27:28,2025-11-28 06:27:28
+JIRA-0524,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-28 17:56:44,2025-09-29 23:56:44
+JIRA-0525,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-07-04 00:59:40,2025-07-04 10:59:40
+JIRA-0526,Bug,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-11-29 13:36:45,2025-11-30 22:36:45
+JIRA-0527,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-16 02:30:36,2025-02-17 00:30:36
+JIRA-0528,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-11 18:46:53,2025-05-13 23:46:53
+JIRA-0529,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-03-15 23:07:32,2025-03-18 09:07:32
+JIRA-0530,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-09 13:22:00,2025-04-10 17:22:00
+JIRA-0531,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-07-12 06:45:17,2025-07-17 10:45:17
+JIRA-0532,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-11-18 17:42:55,2025-11-23 17:42:55
+JIRA-0533,Story,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-03-14 07:24:45,2025-03-19 14:24:45
+JIRA-0534,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-10-14 15:59:07,2025-10-17 13:59:07
+JIRA-0536,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-02-19 04:34:10,2025-02-25 20:34:10
+JIRA-0537,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-20 06:09:18,2026-01-22 04:09:18
+JIRA-0538,Task,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-04-12 10:27:11,2025-04-15 22:27:11
+JIRA-0539,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-02-05 16:26:17,2025-02-07 17:26:17
+JIRA-0540,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-05-03 17:01:34,2025-05-04 11:01:34
+JIRA-0541,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-13 11:02:17,2025-04-17 10:02:17
+JIRA-0543,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-05-09 13:36:40,2025-05-10 07:36:40
+JIRA-0544,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-01 20:45:27,2025-07-04 14:45:27
+JIRA-0546,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-12 16:38:52,2025-12-13 18:38:52
+JIRA-0547,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-11-25 00:30:08,2025-11-26 04:30:08
+JIRA-0548,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-21 13:22:51,2025-03-21 20:22:51
+JIRA-0550,Story,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-08 11:21:15,2025-05-14 03:21:15
+JIRA-0551,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-04-28 13:49:05,2025-04-29 06:49:05
+JIRA-0552,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-09 07:58:55,2025-03-10 07:58:55
+JIRA-0553,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-01 01:05:57,2025-10-06 14:05:57
+JIRA-0554,Story,Done,High,u005,Adyna,adyna@fasttrack.com,2025-03-07 10:30:35,2025-03-07 21:30:35
+JIRA-0555,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-10 07:18:31,2025-08-11 13:18:31
+JIRA-0556,Story,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-27 12:37:33,2025-06-01 16:37:33
+JIRA-0557,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-07-05 21:38:27,2025-07-06 16:38:27
+JIRA-0558,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-25 03:45:34,2025-02-25 23:45:34
+JIRA-0562,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-06 02:47:31,2025-11-06 22:47:31
+JIRA-0563,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-11-19 16:12:49,2025-11-25 04:12:49
+JIRA-0564,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-29 14:10:11,2025-05-03 13:10:11
+JIRA-0565,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-07 19:52:32,2025-06-09 00:52:32
+JIRA-0566,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-02-21 08:28:28,2025-02-23 11:28:28
+JIRA-0568,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-12 17:48:28,2025-02-14 20:48:28
+JIRA-0569,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-01-09 19:35:26,2025-01-10 04:35:26
+JIRA-0570,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-21 08:42:49,2025-07-24 02:42:49
+JIRA-0571,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-28 18:07:59,2025-07-31 00:07:59
+JIRA-0572,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-02-19 14:39:36,2025-02-21 11:39:36
+JIRA-0573,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-10-07 17:11:45,2025-10-07 22:11:45
+JIRA-0574,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-18 03:42:30,2025-07-19 07:42:30
+JIRA-0575,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-27 09:46:01,2025-07-03 19:46:01
+JIRA-0576,Bug,Done,High,u004,Francinne,francinne@fasttrack.com,2026-01-02 10:19:45,2026-01-03 01:19:45
+JIRA-0577,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-01-28 11:13:29,2025-01-29 08:13:29
+JIRA-0578,Story,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-06 12:01:23,2025-09-08 10:01:23
+JIRA-0580,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-11-08 09:46:51,2025-11-10 02:46:51
+JIRA-0581,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-21 18:21:57,2025-12-22 07:21:57
+JIRA-0582,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-25 01:16:48,2025-08-28 20:16:48
+JIRA-0583,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2026-01-19 04:54:34,2026-01-20 17:54:34
+JIRA-0585,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-08 10:51:37,2025-01-12 23:51:37
+JIRA-0586,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-27 20:24:49,2025-08-28 21:24:49
+JIRA-0587,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-16 12:31:30,2025-02-16 20:31:30
+JIRA-0588,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-17 19:56:12,2025-11-18 21:56:12
+JIRA-0590,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-02-28 02:56:28,2025-03-01 17:56:28
+JIRA-0591,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-07-22 17:13:25,2025-07-23 07:13:25
+JIRA-0592,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-18 16:01:05,2025-12-22 13:01:05
+JIRA-0594,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-01 22:00:17,2025-09-02 15:00:17
+JIRA-0595,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-11 06:37:11,2025-06-14 03:37:11
+JIRA-0596,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-12 05:34:03,2025-03-13 13:34:03
+JIRA-0597,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-17 00:16:40,2025-06-21 11:16:40
+JIRA-0598,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-10-04 07:31:32,2025-10-09 12:31:32
+JIRA-0599,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-05-16 01:07:46,2025-05-17 08:07:46
+JIRA-0600,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-07-14 01:35:26,2025-07-16 01:35:26
+JIRA-0602,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-17 03:03:06,2025-10-18 04:03:06
+JIRA-0603,Bug,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-28 05:51:44,2025-03-01 10:51:44
+JIRA-0604,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-11 00:50:54,2025-04-12 23:50:54
+JIRA-0605,Task,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-02-09 07:57:18,2025-02-09 16:57:18
+JIRA-0606,Bug,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-01-23 21:35:23,2025-01-28 22:35:23
+JIRA-0607,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-26 08:44:58,2025-05-28 07:44:58
+JIRA-0609,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-08 01:47:01,2026-01-08 20:47:01
+JIRA-0611,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-16 04:03:54,2025-01-21 05:03:54
+JIRA-0612,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-25 05:15:38,2025-10-01 13:15:38
+JIRA-0614,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-08-07 04:57:52,2025-08-07 09:57:52
+JIRA-0615,Bug,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-30 19:00:01,2025-07-02 03:00:01
+JIRA-0616,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-02-13 10:12:46,2025-02-16 18:12:46
+JIRA-0617,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-15 22:13:37,2025-05-17 08:13:37
+JIRA-0618,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-06 16:12:08,2025-10-10 07:12:08
+JIRA-0619,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-04-21 08:58:43,2025-04-24 08:58:43
+JIRA-0621,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-01-16 11:29:04,2025-01-17 07:29:04
+JIRA-0622,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-06 11:34:05,2025-06-07 15:34:05
+JIRA-0623,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-09 08:07:57,2025-09-09 13:07:57
+JIRA-0624,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-04-21 00:35:49,2025-04-23 04:35:49
+JIRA-0625,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-04 06:26:08,2025-11-05 04:26:08
+JIRA-0626,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-05-03 08:05:06,2025-05-06 03:05:06
+JIRA-0628,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-21 21:35:27,2025-10-26 03:35:27
+JIRA-0629,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-11-01 03:58:46,2025-11-02 07:58:46
+JIRA-0630,Bug,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-06-21 13:47:09,2025-06-22 13:47:09
+JIRA-0633,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-13 19:46:43,2025-07-14 21:46:43
+JIRA-0634,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-01 23:52:57,2025-01-02 17:52:57
+JIRA-0635,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-05-10 04:46:23,2025-05-15 13:46:23
+JIRA-0636,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-03-20 18:45:55,2025-03-23 19:45:55
+JIRA-0637,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-17 12:36:26,2025-12-19 06:36:26
+JIRA-0638,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-23 08:12:59,2025-03-23 14:12:59
+JIRA-0640,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2026-01-10 22:51:57,2026-01-11 13:51:57
+JIRA-0641,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-04 06:04:54,2025-12-04 15:04:54
+JIRA-0642,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-05-28 13:33:47,2025-05-31 05:33:47
+JIRA-0643,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-07 15:58:13,2025-08-11 19:58:13
+JIRA-0644,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-17 07:56:21,2026-01-17 15:56:21
+JIRA-0645,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-08-17 18:47:58,2025-08-19 00:47:58
+JIRA-0647,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-03 19:59:48,2026-01-04 21:59:48
+JIRA-0648,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-07-25 20:02:24,2025-07-26 19:02:24
+JIRA-0649,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-24 06:39:13,2025-10-24 21:39:13
+JIRA-0650,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-28 05:18:31,2025-12-28 17:18:31
+JIRA-0652,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-18 13:16:13,2025-11-22 04:16:13
+JIRA-0653,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-11-22 03:52:02,2025-11-23 00:52:02
+JIRA-0654,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-03 07:49:43,2025-03-03 23:49:43
+JIRA-0655,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-04-25 12:37:24,2025-04-27 18:37:24
+JIRA-0656,Task,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-30 16:40:28,2025-05-31 00:40:28
+JIRA-0657,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-05 04:19:06,2025-12-05 14:19:06
+JIRA-0658,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-02-22 01:11:36,2025-02-23 00:11:36
+JIRA-0659,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-08-03 12:45:23,2025-08-06 18:45:23
+JIRA-0660,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-11-22 21:47:45,2025-11-25 01:47:45
+JIRA-0661,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-03-19 19:56:16,2025-03-20 02:56:16
+JIRA-0662,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-25 02:11:09,2025-09-27 18:11:09
+JIRA-0663,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-03 10:13:41,2026-01-04 19:13:41
+JIRA-0665,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-08 06:51:01,2025-02-11 06:51:01
+JIRA-0666,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-24 09:21:13,2025-08-24 22:21:13
+JIRA-0667,Story,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-27 01:26:03,2025-06-29 11:26:03
+JIRA-0668,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-07 05:25:08,2025-09-09 03:25:08
+JIRA-0670,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-10-18 10:11:29,2025-10-20 00:11:29
+JIRA-0671,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-29 15:20:55,2026-01-30 07:20:55
+JIRA-0674,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-12-27 13:39:33,2025-12-28 09:39:33
+JIRA-0675,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-07-07 22:03:10,2025-07-08 13:03:10
+JIRA-0677,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-20 21:46:13,2025-07-21 20:46:13
+JIRA-0679,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-07-29 00:04:53,2025-07-30 00:04:53
+JIRA-0680,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-07 21:52:13,2025-01-08 16:52:13
+JIRA-0681,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-07 13:46:31,2025-01-08 00:46:31
+JIRA-0682,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-08-02 21:25:42,2025-08-05 15:25:42
+JIRA-0683,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-12-29 11:52:53,2025-12-31 13:52:53
+JIRA-0684,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-06 16:58:07,2025-01-09 21:58:07
+JIRA-0685,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-08 13:28:44,2025-08-12 17:28:44
+JIRA-0686,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-03 18:01:16,2025-08-04 18:01:16
+JIRA-0687,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-21 01:52:12,2025-08-22 13:52:12
+JIRA-0688,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-10 20:56:26,2025-11-11 21:56:26
+JIRA-0689,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-22 07:42:05,2026-01-22 20:42:05
+JIRA-0690,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-01-28 10:23:38,2025-02-01 00:23:38
+JIRA-0691,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-06-22 17:09:01,2025-06-26 01:09:01
+JIRA-0692,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-05-13 00:46:51,2025-05-17 00:46:51
+JIRA-0694,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-23 04:38:29,2025-05-27 17:38:29
+JIRA-0695,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-27 12:29:03,2025-08-30 05:29:03
+JIRA-0696,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-12-27 05:07:28,2025-12-28 08:07:28
+JIRA-0697,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-25 07:33:27,2025-03-03 07:33:27
+JIRA-0698,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-24 10:49:47,2025-10-25 06:49:47
+JIRA-0699,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-28 02:42:50,2025-04-28 10:42:50
+JIRA-0700,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-22 09:44:59,2025-12-23 15:44:59
+JIRA-0701,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-14 17:09:56,2026-01-15 07:09:56
+JIRA-0703,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-04 01:26:40,2025-05-04 20:26:40
+JIRA-0704,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-11-30 12:46:38,2025-12-05 19:46:38
+JIRA-0706,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-29 00:36:26,2025-05-29 14:36:26
+JIRA-0707,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-25 11:08:42,2025-09-29 18:08:42
+JIRA-0708,Bug,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-26 18:23:56,2025-08-28 03:23:56
+JIRA-0709,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-12-21 03:04:56,2025-12-24 09:04:56
+JIRA-0710,Task,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-04-14 22:00:56,2025-04-17 05:00:56
+JIRA-0712,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-12 21:51:10,2025-04-13 07:51:10
+JIRA-0714,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-07 17:43:35,2025-02-09 05:43:35
+JIRA-0717,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-01-08 05:26:57,2025-01-08 18:26:57
+JIRA-0718,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-07-29 16:44:19,2025-07-30 15:44:19
+JIRA-0719,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-03-23 11:44:35,2025-03-24 07:44:35
+JIRA-0722,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-18 09:44:43,2025-08-19 17:44:43
+JIRA-0723,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-09 08:13:31,2026-01-11 14:13:31
+JIRA-0724,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-03-27 18:34:53,2025-03-29 00:34:53
+JIRA-0726,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-07-18 18:10:28,2025-07-22 05:10:28
+JIRA-0727,Task,Done,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-19 12:34:22,2025-03-20 22:34:22
+JIRA-0728,Bug,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-31 21:16:58,2025-09-03 15:16:58
+JIRA-0730,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-28 09:38:58,2025-07-29 08:38:58
+JIRA-0732,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-07 11:07:59,2026-01-10 04:07:59
+JIRA-0733,Task,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-15 13:14:52,2025-02-15 22:14:52
+JIRA-0734,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-12-07 07:56:48,2025-12-10 05:56:48
+JIRA-0735,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-04-12 11:35:30,2025-04-15 12:35:30
+JIRA-0736,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-19 04:40:10,2025-02-21 01:40:10
+JIRA-0737,Story,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-06-23 23:22:53,2025-06-28 13:22:53
+JIRA-0738,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-15 23:26:31,2025-03-21 13:26:31
+JIRA-0739,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-10-26 22:37:12,2025-10-28 05:37:12
+JIRA-0741,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-28 03:35:21,2025-03-03 05:35:21
+JIRA-0742,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-09 02:36:19,2025-02-12 06:36:19
+JIRA-0743,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-07-02 12:43:03,2025-07-04 08:43:03
+JIRA-0744,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-23 03:53:45,2026-01-28 21:53:45
+JIRA-0745,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-14 19:14:26,2025-01-15 20:14:26
+JIRA-0746,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-01 03:09:49,2025-01-02 09:09:49
+JIRA-0747,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2026-01-30 20:06:08,2026-02-03 00:06:08
+JIRA-0748,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-23 03:29:41,2025-06-26 01:29:41
+JIRA-0749,Bug,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-10 04:18:04,2025-10-15 23:18:04
+JIRA-0750,Story,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-23 03:21:28,2025-09-27 21:21:28
+JIRA-0751,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-24 13:59:24,2025-03-26 00:59:24
+JIRA-0752,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-14 20:14:29,2025-11-15 03:14:29
+JIRA-0754,Bug,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-03-25 16:53:56,2025-03-26 20:53:56
+JIRA-0755,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-04-06 16:58:19,2025-04-12 11:58:19
+JIRA-0756,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-15 13:47:49,2025-04-21 20:47:49
+JIRA-0758,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-18 15:17:34,2025-05-21 11:17:34
+JIRA-0759,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-07 23:36:09,2025-09-11 03:36:09
+JIRA-0760,Task,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-07-12 19:30:23,2025-07-16 17:30:23
+JIRA-0761,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-04-14 14:13:52,2025-04-15 19:13:52
+JIRA-0762,Story,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-08-21 04:08:40,2025-08-25 12:08:40
+JIRA-0763,Story,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-14 16:47:39,2025-08-15 17:47:39
+JIRA-0764,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-05-19 02:40:08,2025-05-19 22:40:08
+JIRA-0765,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-03-31 15:18:35,2025-04-05 09:18:35
+JIRA-0766,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-21 06:21:09,2025-11-27 22:21:09
+JIRA-0767,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-20 15:06:24,2025-01-21 07:06:24
+JIRA-0769,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-18 04:22:32,2025-02-22 07:22:32
+JIRA-0770,Story,Done,High,u005,Adyna,adyna@fasttrack.com,2025-12-18 12:58:23,2025-12-18 19:58:23
+JIRA-0771,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-24 05:23:33,2025-06-29 08:23:33
+JIRA-0772,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-02-06 11:46:06,2025-02-11 12:46:06
+JIRA-0773,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-11 18:56:44,2025-02-12 21:56:44
+JIRA-0774,Story,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-12-11 03:18:31,2025-12-14 12:18:31
+JIRA-0775,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-02 14:26:56,2025-06-05 15:26:56
+JIRA-0776,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-27 20:12:09,2025-02-28 05:12:09
+JIRA-0778,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-05 23:55:52,2025-05-09 16:55:52
+JIRA-0779,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-01 05:47:14,2025-05-01 22:47:14
+JIRA-0781,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-04 21:19:16,2025-09-11 11:19:16
+JIRA-0783,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-13 09:59:21,2025-03-18 02:59:21
+JIRA-0784,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-08 05:45:32,2025-10-12 08:45:32
+JIRA-0785,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-07 20:06:46,2025-01-10 01:06:46
+JIRA-0786,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-09 09:16:03,2025-07-09 14:16:03
+JIRA-0787,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-08-08 16:18:52,2025-08-08 20:18:52
+JIRA-0788,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-13 01:46:57,2025-12-19 05:46:57
+JIRA-0790,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-20 20:28:59,2025-02-24 01:28:59
+JIRA-0791,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-06-09 16:16:51,2025-06-13 00:16:51
+JIRA-0792,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-04-30 10:11:35,2025-04-30 14:11:35
+JIRA-0794,Task,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-06-26 19:37:19,2025-06-28 16:37:19
+JIRA-0795,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-03 08:10:18,2025-12-05 12:10:18
+JIRA-0797,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-02-26 09:09:55,2025-03-03 04:09:55
+JIRA-0798,Task,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-23 01:35:03,2025-08-26 18:35:03
+JIRA-0799,Story,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-24 22:30:38,2025-01-27 22:30:38
+JIRA-0803,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-03-08 02:52:46,2025-03-12 08:52:46
+JIRA-0804,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-09-25 01:51:33,2025-09-28 07:51:33
+JIRA-0807,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-26 19:30:49,2025-03-02 21:30:49
+JIRA-0809,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-02 04:00:33,2025-07-02 11:00:33
+JIRA-0810,Task,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-09-04 19:57:33,2025-09-05 14:57:33
+JIRA-0811,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-29 08:50:52,2025-05-04 05:50:52
+JIRA-0813,Story,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-03 21:41:09,2025-08-08 17:41:09
+JIRA-0814,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2026-01-08 18:59:25,2026-01-14 16:59:25
+JIRA-0815,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-03-26 12:47:14,2025-03-27 22:47:14
+JIRA-0816,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-19 17:49:12,2025-04-23 01:49:12
+JIRA-0817,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-03-01 09:21:43,2025-03-03 04:21:43
+JIRA-0819,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-02 16:39:19,2026-01-03 16:39:19
+JIRA-0820,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-08-15 00:37:03,2025-08-16 05:37:03
+JIRA-0822,Task,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-09 19:32:52,2025-05-16 06:32:52
+JIRA-0824,Task,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-14 18:18:30,2026-01-15 05:18:30
+JIRA-0825,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-10 14:32:53,2025-06-13 20:32:53
+JIRA-0826,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-06 01:39:25,2025-02-06 18:39:25
+JIRA-0827,Story,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-08-01 10:19:19,2025-08-05 05:19:19
+JIRA-0829,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-02 10:59:44,2025-03-08 22:59:44
+JIRA-0830,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-02 02:29:44,2025-10-03 08:29:44
+JIRA-0831,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-06 02:59:23,2025-01-09 06:59:23
+JIRA-0832,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-07 02:40:07,2025-08-07 12:40:07
+JIRA-0833,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-04-02 21:50:06,2025-04-03 22:50:06
+JIRA-0834,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2026-01-10 00:07:15,2026-01-13 01:07:15
+JIRA-0838,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-11-11 22:15:12,2025-11-15 14:15:12
+JIRA-0839,Task,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-09 03:58:37,2025-08-09 09:58:37
+JIRA-0840,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-10 02:56:59,2026-01-12 21:56:59
+JIRA-0842,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-09-24 03:51:19,2025-09-29 23:51:19
+JIRA-0843,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-27 09:31:49,2025-10-27 17:31:49
+JIRA-0844,Bug,Done,High,u004,Francinne,francinne@fasttrack.com,2026-01-27 17:56:34,2026-01-28 18:56:34
+JIRA-0846,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-26 22:44:11,2026-01-28 02:44:11
+JIRA-0847,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-01 22:22:24,2025-01-05 21:22:24
+JIRA-0848,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-02-03 17:44:53,2025-02-07 00:44:53
+JIRA-0849,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-10-24 02:45:48,2025-10-26 10:45:48
+JIRA-0850,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-11-27 11:41:50,2025-11-29 21:41:50
+JIRA-0851,Story,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-03-07 02:28:22,2025-03-07 15:28:22
+JIRA-0852,Story,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-01-05 05:57:28,2025-01-05 17:57:28
+JIRA-0853,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-19 07:03:49,2025-10-20 07:03:49
+JIRA-0854,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-03-24 18:51:18,2025-03-26 01:51:18
+JIRA-0855,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-11-25 23:45:34,2025-11-30 20:45:34
+JIRA-0856,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-06-08 05:07:30,2025-06-13 14:07:30
+JIRA-0858,Story,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-06 05:40:35,2025-11-08 16:40:35
+JIRA-0859,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-06 16:04:46,2025-05-06 23:04:46
+JIRA-0860,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-02-10 10:20:04,2025-02-11 18:20:04
+JIRA-0861,Task,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-04-23 21:07:06,2025-04-24 16:07:06
+JIRA-0864,Task,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-02-14 15:11:18,2025-02-17 11:11:18
+JIRA-0865,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-08-11 03:32:52,2025-08-11 13:32:52
+JIRA-0866,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-06-29 22:39:35,2025-07-02 17:39:35
+JIRA-0867,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-03 06:58:59,2025-05-03 12:58:59
+JIRA-0868,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-11-11 22:09:13,2025-11-15 13:09:13
+JIRA-0869,Task,Resolved,High,u005,Adyna,adyna@fasttrack.com,2025-02-23 07:07:00,2025-02-23 13:07:00
+JIRA-0870,Bug,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-28 08:57:56,2025-10-03 00:57:56
+JIRA-0871,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-12-20 05:19:20,2025-12-25 12:19:20
+JIRA-0873,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-09-22 01:25:24,2025-09-22 08:25:24
+JIRA-0874,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-07-14 06:58:31,2025-07-19 23:58:31
+JIRA-0875,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-09-21 19:44:07,2025-09-24 17:44:07
+JIRA-0876,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-07-20 06:06:31,2025-07-20 12:06:31
+JIRA-0877,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-28 14:12:30,2025-06-29 19:12:30
+JIRA-0878,Task,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-01-08 13:15:12,2025-01-10 10:15:12
+JIRA-0879,Bug,Done,High,u005,Adyna,adyna@fasttrack.com,2025-09-23 15:12:33,2025-09-23 21:12:33
+JIRA-0880,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-19 18:22:04,2025-06-23 07:22:04
+JIRA-0881,Bug,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-05-28 16:58:44,2025-06-03 23:58:44
+JIRA-0882,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-26 03:30:53,2025-07-29 07:30:53
+JIRA-0883,Bug,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-04 12:49:52,2025-10-04 20:49:52
+JIRA-0884,Story,Resolved,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-18 15:56:19,2026-01-19 14:56:19
+JIRA-0885,Task,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-16 07:36:17,2025-10-17 06:36:17
+JIRA-0886,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2026-01-17 05:16:29,2026-01-20 03:16:29
+JIRA-0887,Task,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-04-10 14:40:40,2025-04-11 08:40:40
+JIRA-0888,Task,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-26 07:00:42,2025-01-29 11:00:42
+JIRA-0889,Task,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-12-22 02:45:06,2025-12-24 08:45:06
+JIRA-0890,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-01-10 04:20:25,2025-01-11 18:20:25
+JIRA-0891,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-07-21 17:10:23,2025-07-22 02:10:23
+JIRA-0892,Task,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-24 11:46:53,2025-09-25 02:46:53
+JIRA-0893,Task,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-10-17 04:21:16,2025-10-19 14:21:16
+JIRA-0895,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-29 16:12:57,2025-07-30 21:12:57
+JIRA-0896,Task,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-02 06:52:59,2025-06-03 12:52:59
+JIRA-0898,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-03 05:34:56,2025-09-09 09:34:56
+JIRA-0899,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-02-07 01:21:57,2025-02-12 06:21:57
+JIRA-0901,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-17 22:27:00,2025-09-18 10:27:00
+JIRA-0902,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-20 04:09:09,2025-07-24 20:09:09
+JIRA-0903,Story,Done,High,u005,Adyna,adyna@fasttrack.com,2025-06-04 12:50:52,2025-06-05 10:50:52
+JIRA-0904,Story,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-10 01:29:28,2025-08-14 19:29:28
+JIRA-0905,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-12-14 03:22:52,2025-12-15 23:22:52
+JIRA-0906,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-23 12:10:07,2025-04-24 21:10:07
+JIRA-0907,Bug,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-11 09:30:37,2025-11-13 03:30:37
+JIRA-0908,Story,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-04 03:02:18,2025-09-08 02:02:18
+JIRA-0909,Task,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-11-04 03:49:17,2025-11-06 01:49:17
+JIRA-0910,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-16 17:59:20,2025-12-22 02:59:20
+JIRA-0912,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-06-13 13:20:13,2025-06-16 07:20:13
+JIRA-0914,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-06 15:54:53,2025-03-06 22:54:53
+JIRA-0916,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-11 05:06:32,2025-12-12 05:06:32
+JIRA-0917,Task,Resolved,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-23 04:36:27,2025-01-24 12:36:27
+JIRA-0918,Bug,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-07-31 14:10:22,2025-08-04 00:10:22
+JIRA-0919,Story,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-12-21 14:35:10,2025-12-27 05:35:10
+JIRA-0920,Bug,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-09-27 15:41:10,2025-10-03 18:41:10
+JIRA-0921,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-12 02:41:43,2025-10-12 19:41:43
+JIRA-0923,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-18 02:16:14,2026-01-21 03:16:14
+JIRA-0924,Task,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-06-29 14:10:02,2025-06-30 02:10:02
+JIRA-0925,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-06 12:15:11,2025-12-07 04:15:11
+JIRA-0926,Task,Resolved,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-10-30 16:58:05,2025-11-04 16:58:05
+JIRA-0927,Story,Done,High,u005,Adyna,adyna@fasttrack.com,2025-07-06 01:45:21,2025-07-06 21:45:21
+JIRA-0928,Bug,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-07-28 19:12:20,2025-08-03 04:12:20
+JIRA-0930,Bug,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2026-01-18 03:28:13,2026-01-19 15:28:13
+JIRA-0932,Bug,Done,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-12-07 12:40:42,2025-12-08 01:40:42
+JIRA-0934,Story,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2026-01-23 02:46:12,2026-01-25 13:46:12
+JIRA-0935,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-04-24 11:16:28,2025-04-24 16:16:28
+JIRA-0936,Task,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-05-22 01:20:20,2025-05-22 11:20:20
+JIRA-0938,Story,Resolved,High,u004,Francinne,francinne@fasttrack.com,2025-01-27 00:40:37,2025-01-27 10:40:37
+JIRA-0939,Story,Done,High,u004,Francinne,francinne@fasttrack.com,2025-06-11 21:44:10,2025-06-12 16:44:10
+JIRA-0940,Story,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-04 04:43:53,2025-05-08 00:43:53
+JIRA-0941,Bug,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-16 18:05:30,2025-07-22 21:05:30
+JIRA-0942,Story,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-06-19 03:52:01,2025-06-20 05:52:01
+JIRA-0943,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-05-10 23:49:23,2025-05-12 22:49:23
+JIRA-0944,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-01-07 22:27:52,2025-01-08 15:27:52
+JIRA-0945,Bug,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-01 09:15:33,2025-05-03 20:15:33
+JIRA-0946,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-09-20 20:38:42,2025-09-22 00:38:42
+JIRA-0947,Bug,Resolved,Medium,u004,Francinne,francinne@fasttrack.com,2025-03-25 09:55:32,2025-03-26 13:55:32
+JIRA-0948,Bug,Resolved,Medium,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-09-27 18:28:18,2025-09-30 14:28:18
+JIRA-0949,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-04-15 15:35:23,2025-04-19 07:35:23
+JIRA-0950,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-17 21:52:41,2025-08-24 02:52:41
+JIRA-0951,Task,Done,High,u004,Francinne,francinne@fasttrack.com,2025-09-09 09:50:55,2025-09-10 12:50:55
+JIRA-0952,Bug,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-05-05 13:01:04,2025-05-07 06:01:04
+JIRA-0953,Task,Done,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-07-24 13:11:10,2025-07-27 22:11:10
+JIRA-0954,Bug,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-28 23:44:08,2026-01-29 15:44:08
+JIRA-0955,Story,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-07-05 11:18:14,2025-07-09 21:18:14
+JIRA-0956,Story,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-05-28 11:25:23,2025-06-04 01:25:23
+JIRA-0957,Bug,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-09-08 13:42:02,2025-09-09 06:42:02
+JIRA-0958,Bug,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-21 19:00:08,2025-02-22 00:00:08
+JIRA-0959,Bug,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2026-01-12 23:57:28,2026-01-13 09:57:28
+JIRA-0960,Story,Resolved,Low,u005,Adyna,adyna@fasttrack.com,2025-10-29 20:00:25,2025-11-05 01:00:25
+JIRA-0961,Story,Done,Low,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-02-08 03:01:20,2025-02-13 00:01:20
+JIRA-0963,Story,Resolved,Medium,u005,Adyna,adyna@fasttrack.com,2025-02-17 03:32:00,2025-02-19 13:32:00
+JIRA-0964,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-02-15 06:47:28,2025-02-19 00:47:28
+JIRA-0965,Story,Resolved,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2025-08-25 01:11:29,2025-08-25 07:11:29
+JIRA-0968,Story,Done,High,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-11-19 11:36:06,2025-11-20 14:36:06
+JIRA-0969,Bug,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-23 07:10:17,2025-12-28 20:10:17
+JIRA-0970,Story,Done,High,u002,Gionni Lucio,gionni.lucio@fasttrack.com,2026-01-28 00:09:19,2026-01-28 14:09:19
+JIRA-0971,Task,Done,Low,u005,Adyna,adyna@fasttrack.com,2025-10-01 15:47:48,2025-10-05 23:47:48
+JIRA-0972,Bug,Done,Medium,u005,Adyna,adyna@fasttrack.com,2025-12-01 10:44:36,2025-12-03 15:44:36
+JIRA-0973,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-10-19 07:40:56,2025-10-23 00:40:56
+JIRA-0974,Story,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-01 03:38:48,2025-01-01 19:38:48
+JIRA-0975,Bug,Done,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-08-23 10:44:10,2025-08-23 14:44:10
+JIRA-0976,Story,Resolved,High,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-01-17 20:32:34,2025-01-19 00:32:34
+JIRA-0977,Task,Done,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-05-01 04:05:33,2025-05-03 04:05:33
+JIRA-0979,Task,Done,High,u005,Adyna,adyna@fasttrack.com,2025-08-22 06:02:35,2025-08-22 12:02:35
+JIRA-0980,Bug,Resolved,Low,u004,Francinne,francinne@fasttrack.com,2025-03-01 23:08:29,2025-03-06 10:08:29
+JIRA-0981,Bug,Resolved,Medium,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-03-16 01:42:53,2025-03-19 17:42:53
+JIRA-0982,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-10-24 08:32:06,2025-10-26 04:32:06
+JIRA-0983,Bug,Resolved,Medium,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-12-04 08:01:14,2025-12-07 01:01:14
+JIRA-0984,Task,Resolved,Low,u001,Matheus Malta,matheus.malta@fasttrack.com,2025-01-09 21:09:08,2025-01-14 22:09:08
+JIRA-0986,Story,Done,Low,u004,Francinne,francinne@fasttrack.com,2025-02-09 05:45:27,2025-02-14 09:45:27
+JIRA-0987,Task,Done,Low,u003,Guilherme Francisco,guilherme@fasttrack.com,2025-06-22 11:58:34,2025-06-28 01:58:34
+JIRA-0990,Story,Done,Medium,u004,Francinne,francinne@fasttrack.com,2025-04-12 06:22:09,2025-04-13 11:22:09
