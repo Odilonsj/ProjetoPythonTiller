@@ -111,3 +111,4 @@ if __name__ == "__main__":
     # Generate summary statistics for numeric columns
     print("\n=== Summary Statistics ===")
     print(df_issues.describe())
+

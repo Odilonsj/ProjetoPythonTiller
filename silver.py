@@ -14,6 +14,7 @@
 # Import the bronze layer function to load raw data
 from bronze import load_issues
 import pandas as pd
+from sla_calculation import get_holidays, calculate_business_hours
 
 # Load raw Jira issues data from the bronze layer
 df_issues = load_issues()
@@ -80,12 +81,41 @@ df_normalized["resolved_at"] = pd.to_datetime(df_normalized["resolved_at"], erro
 # Apply final filter to remove any rows with invalid resolved_at timestamps
 df_normalized = df_normalized[df_normalized["resolved_at"].notna()]
 
+# Calculate per-issue business-hour resolution time (reusable metric for gold layer)
+holidays = get_holidays("holidays.json")
+df_normalized["resolution_hours"] = df_normalized.apply(
+    lambda row: calculate_business_hours(
+        row["created_at"],
+        row["resolved_at"],
+        holidays
+    ),
+    axis=1
+)
+df_normalized["resolution_days"] = (df_normalized["resolution_hours"] / 8).round(2)
+
+# Define SLA thresholds by priority (in business hours)
+sla_thresholds = {
+    "High": 24,
+    "Medium": 72,
+    "Low": 120
+}
+
+# Calculate expected SLA hours based on priority
+df_normalized["sla_expected_hours"] = df_normalized["priority"].map(sla_thresholds)
+
+# Check if SLA was met (resolution_hours <= sla_expected_hours)
+df_normalized["sla_met"] = df_normalized["resolution_hours"] <= df_normalized["sla_expected_hours"]
+
 # ===== Data Validation and Inspection =====
 
 # Display summary statistics about the normalized dataset
-print("\n=== Normalized DataFrame (After Exploding) ===")
+print("\n=== Normalized DataFrame with SLA Metrics ===")
 print(f"Rows: {df_normalized.shape[0]}, Columns: {df_normalized.shape[1]}\n")
-print(df_normalized.head(20).to_string(index=False))
+
+# Show issues with SLA-relevant columns
+print("=== Sample Issues (with SLA Analysis) ===")
+sla_columns = ["id", "priority", "assignee_id", "resolution_hours", "sla_expected_hours", "sla_met"]
+print(df_normalized[sla_columns].head(30).to_string(index=False))
 
 # Show all column names for verification
 print("\n=== All Columns ===")
@@ -95,8 +125,14 @@ print(df_normalized.columns.tolist())
 print("\n=== DataFrame Info ===")
 print(df_normalized.info())
 
-# Display full DataFrame for debugging/inspection
-print(df_normalized)
+# SLA Compliance Summary
+print("\n=== SLA Compliance Summary ===")
+sla_summary = df_normalized.groupby("priority").agg(
+    total_issues=("id", "count"),
+    met_sla=("sla_met", "sum"),
+    sla_compliance_pct=("sla_met", lambda x: round(x.sum() / len(x) * 100, 2))
+).reset_index()
+print(sla_summary.to_string(index=False))
 
 # Save the cleaned data to Parquet format
 # Parquet preserves all data types (datetime, string, etc.) unlike CSV
