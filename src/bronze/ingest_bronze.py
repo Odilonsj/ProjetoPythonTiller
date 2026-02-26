@@ -1,20 +1,18 @@
-# ===== BRONZE LAYER =====
-# Raw data ingestion layer - first stage of the data pipeline
-# Responsibility: Load raw data from source systems with minimal transformation
-# - Extracts data from Azure Blob Storage
-# - Preserves original data structure and values
-# - Converts to DataFrame for downstream processing
-# - No data cleaning or business logic applied at this layer
+""" 
+BRONZE LAYER  - Raw data ingestion layer - first stage of the data pipeline
+Responsibility: Load raw data from source systems with minimal transformation
 
-def load_issues():
-    """Load and transform Jira issues from JSON file.
+Load and transform Jira issues from JSON file.
     
     Downloads Jira issues data from Azure Blob Storage and converts it into a pandas DataFrame.
     Handles both standard JSON objects and newline-delimited JSON (NDJSON) formats.
     
     Returns:
         pd.DataFrame: Normalized DataFrame containing all Jira issues data
-    """
+"""
+from pathlib import Path
+
+def load_issues():
     # Import required libraries for Azure authentication, blob storage access, and data processing
     from azure.identity import ClientSecretCredential
     from azure.storage.blob import BlobServiceClient
@@ -25,19 +23,16 @@ def load_issues():
     from json import JSONDecodeError
     
     # Load environment variables from credentials file
-    load_dotenv('credenciais.env')
+    project_root = Path(__file__).resolve().parents[2]
+    credentials_path = project_root / "credenciais.env"
+    load_dotenv(credentials_path)
 
     # Azure Blob Storage configuration
-    url = "https://stfasttracksdev.blob.core.windows.net"  # Azure Storage account URL
-    container_name = "source-jira"  # Container holding the Jira data
-    blob_name = "jira_issues_raw.json"  # Raw Jira issues file name
+    url = "https://stfasttracksdev.blob.core.windows.net"  
+    container_name = "source-jira"  
+    blob_name = "jira_issues_raw.json"  
 
     # Retrieve Azure authentication credentials from environment variables
-    # This is a best practices approach for handling sensitive information:
-        # Security: Keeps sensitive credentials (client ID, secret, tenant ID) out of the source code
-        # Configuration: Allows different credentials for development, testing, and production environments without changing code
-        # Access mechanism: After load_dotenv() loads variables from credenciais.env, os.environ.get() retrieves them
-
     client_id = os.environ.get("AZURE_CLIENT_ID")
     client_secret = os.environ.get("AZURE_CLIENT_SECRET")
     tenant_id = os.environ.get("AZURE_TENANT_ID")
@@ -52,20 +47,12 @@ def load_issues():
     blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
 
     # Download blob from Azure and save locally with a standardized name
-    local_file_path = "raw_issues.json"
+    local_file_path = project_root / "data" / "bronze" / "raw_jira_issues.json"
+    local_file_path.parent.mkdir(parents=True, exist_ok=True)
     
-    # Open a new file in binary write mode ("wb")
-    # key reasons for using binary mode:
-        # Data type match: Azure's .readall() returns a bytes object, which can only be written in binary mode
-        # Exact preservation: Binary mode writes the data exactly as received without any text encoding/decoding transformations
-        # Prevents corruption: Text mode would try to interpret the bytes as text and could fail or modify the content
-        # Universal compatibility: Works for any file type (JSON, images, PDFs, etc.) downloaded from blob storage
-        # Binary for download → Text for reading/parsing. This is the standard pattern for downloading files.
-
+    # Open a local file in binary write mode and write the contents of the blob to it
     with open(local_file_path, "wb") as download_file:
-        # Download the blob content from Azure and write all bytes to the local file
         download_file.write(blob_client.download_blob().readall())
-    # Confirm successful download and show the saved filename
     print(f"✓ Downloaded {blob_name} and saved as {local_file_path}")
 
     # Parse the downloaded JSON file
@@ -85,11 +72,6 @@ def load_issues():
     return df_issues
 
 if __name__ == "__main__":
-#When we run the script directly: python bronze.py → the code inside executes
-#When we import the script: from bronze import load_issues → the code inside does NOT execute
-#This is a Python best practice for making modular, reusable code
-
-    # Execute the function to load Jira issues data
     df_issues = load_issues()
 
     # Display comprehensive information about the loaded DataFrame

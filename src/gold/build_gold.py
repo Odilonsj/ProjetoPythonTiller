@@ -2,10 +2,16 @@
 GOLD LAYER - SLA Analysis and Assignee Performance
 Analysis-ready aggregations with SLA compliance metrics
 """
+from pathlib import Path
+
 import pandas as pd
 
+project_root = Path(__file__).resolve().parents[2]
+silver_input_file = project_root / "data" / "silver" / "silver_issues.parquet"
+gold_output_file = project_root / "data" / "gold" / "gold_issues_full.parquet"
+
 # Read Parquet file
-df = pd.read_parquet("silver_issues.parquet")
+df = pd.read_parquet(silver_input_file)
 
 # Add a filter to show every status but open
 df = df[df["status"] != "Open"]
@@ -22,7 +28,8 @@ print(df.sort_values(["assignee_id", "resolved_at"])[display_cols].to_string(ind
 
 # ===== Save Gold Layer to Parquet =====
 df_sorted = df.sort_values(["assignee_id", "resolved_at"]).reset_index(drop=True)
-df_sorted.to_parquet("gold_issues_full.parquet", index=False, engine="pyarrow")
+gold_output_file.parent.mkdir(parents=True, exist_ok=True)
+df_sorted.to_parquet(gold_output_file, index=False, engine="pyarrow")
 
 # Aggregation 1: SLA Compliance by Priority
 print("\n=== SLA Compliance by Priority ===")

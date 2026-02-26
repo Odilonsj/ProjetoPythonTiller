@@ -3,3 +3,11 @@ venv/
 .venv/
 __pycache__/
 *.pyc
+
+# Generated data artifacts
+data/silver/*.parquet
+data/gold/*.parquet
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db

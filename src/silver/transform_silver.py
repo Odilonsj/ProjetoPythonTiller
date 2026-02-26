@@ -1,20 +1,30 @@
-# ===== SILVER LAYER =====
-# Cleaned and transformed data layer - second stage of the data pipeline
-# Responsibility: Transform raw data into clean, standardized, analysis-ready format
-# 
-# Key Operations:
-# - Explode nested arrays (assignee, timestamps) into relational rows
-# - Extract nested fields into flat columns
-# - Filter incomplete records (only resolved issues)
-# - Enforce data types (string for text, UTC datetime for timestamps)
-# - Store in Parquet format for efficient columnar storage
-#
-# Output: Clean, normalized data ready for aggregation (gold layer)
+"""SILVER LAYER 
+Cleaned and transformed data layer - second stage of the data pipeline
+Responsibility: Transform raw data into clean, standardized, analysis-ready format
 
-# Import the bronze layer function to load raw data
-from bronze import load_issues
+Key Operations:
+- Explode nested arrays (assignee, timestamps) into relational rows
+- Extract nested fields into flat columns
+- Filter incomplete records (only resolved issues)
+- Enforce data types (string for text, UTC datetime for timestamps)
+- Store in Parquet format for efficient columnar storage
+
+Output: Clean, normalized data ready for aggregation (gold layer)
+"""
+
+import sys
+from pathlib import Path
+
+project_root = Path(__file__).resolve().parents[2]
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
+from src.bronze.ingest_bronze import load_issues
 import pandas as pd
-from sla_calculation import get_holidays, calculate_business_hours
+from src.silver.sla_calculation import get_holidays, calculate_business_hours
+
+holidays_file = project_root / "data" / "bronze" / "holidays.json"
+silver_output_file = project_root / "data" / "silver" / "silver_issues.parquet"
 
 # Load raw Jira issues data from the bronze layer
 df_issues = load_issues()
@@ -25,22 +35,10 @@ df_issues["assignee"] = df_issues["assignee"].apply(lambda x: x if isinstance(x,
 df_issues["timestamps"] = df_issues["timestamps"].apply(lambda x: x if isinstance(x,list)else [])
 
 # Explode nested arrays into separate rows
-# If an issue has multiple assignees or timestamps, create one row per combination
-# reset_index(drop=True) renumbers rows sequentially after exploding
 df_exploded = df_issues.explode("assignee").explode("timestamps").reset_index(drop=True)
 
 # Helper function to safely extract values from dictionaries
-# Returns None if the input is not a dict or the key doesn't exist
 def get_value(d,key):
-    """Safely extract a value from a dictionary.
-    
-    Args:
-        d: Dictionary or other type
-        key: Key to extract
-    
-    Returns:
-        Value if d is a dict and key exists, otherwise None
-    """
     if isinstance(d,dict):
         return d.get(key)
     return None
@@ -60,7 +58,6 @@ columns_to_keep = ["id", "issue_type", "status", "priority", "assignee_id", "ass
 df_normalized = df_exploded[columns_to_keep]
 
 # Filter out rows where resolved_at is missing
-# Only keep resolved issues for analysis
 df_normalized = df_normalized[df_normalized["resolved_at"].notna()]
 
 # Convert all text fields to 'string' type (Pandas nullable string type)
@@ -82,7 +79,7 @@ df_normalized["resolved_at"] = pd.to_datetime(df_normalized["resolved_at"], erro
 df_normalized = df_normalized[df_normalized["resolved_at"].notna()]
 
 # Calculate per-issue business-hour resolution time (reusable metric for gold layer)
-holidays = get_holidays("holidays.json")
+holidays = get_holidays(holidays_file)
 df_normalized["resolution_hours"] = df_normalized.apply(
     lambda row: calculate_business_hours(
         row["created_at"],
@@ -136,15 +133,8 @@ print(sla_summary.to_string(index=False))
 
 # Save the cleaned data to Parquet format
 # Parquet preserves all data types (datetime, string, etc.) unlike CSV
-df_normalized.to_parquet("silver_issues.parquet", index=False, engine="pyarrow")
+silver_output_file.parent.mkdir(parents=True, exist_ok=True)
+df_normalized.to_parquet(silver_output_file, index=False, engine="pyarrow")
 
 # Display final data types for verification
 print(df_normalized.dtypes)
-
-# Why Parquet is the best format for the silver layer:
-# - Industry standard for data engineering pipelines
-# - Preserves all data types (datetime, int, float, string) without conversion
-# - Compressed and efficient storage (smaller file sizes)
-# - Columnar format enables fast queries on specific columns
-# - Compatible with all major data tools (Spark, Pandas, Polars, Dask, etc.)
-# - Supports schema evolution and metadata storage
